@@ -7,7 +7,7 @@
             "email": "sagar.jagtap@wwindia.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "master",
     "require": {
         "php": ">=5.3.0"
     },
